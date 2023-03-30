@@ -14,7 +14,7 @@ import ro.pentalog.pentabar.movieservice.repository.MovieRepository;
 import java.util.List;
 
 import javax.persistence.EntityNotFoundException;
-
+/*Documento de prueba commit*/
 @RestController
 @RequestMapping("/api/movies")
 public class MovieController {
